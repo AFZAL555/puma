@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.body{
+    background-color:black;
+    height: 200vh;
+}
+
+.container-fluid{
+    background-color: #a36b04;
+    
+}
+.material-icons{
+    color:white;
+    size: 20px;
+    text-decoration: none;
+}
+.container{
+    width:100%;
+}
+.card{
+    width:250px;
+    height: auto;
+
+}
+#scrollToTopBtn {
+    background-color: black;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 48px;
+    width: 48px;
+  }
+
+
+
